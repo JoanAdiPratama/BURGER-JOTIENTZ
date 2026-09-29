@@ -1,6 +1,6 @@
 /* ============ KONFIGURASI ============
    Isi dengan URL Web App dari Apps Script (berakhiran /exec) */
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyAyZW_60vibBiZe5BMKq4wTk7sHXFvacDAX694ESNOW6auvMNSrcNOoVlFhY1eiRlZbA/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbz6ZhYqs0x59IpaDgej8Dj6346BKI2Dn3LzZS4WzRmllDmzwNBRKVq1FR4jRMIFlEFxig/exec";
 /* ===================================== */
 
 const $ = (s) => document.querySelector(s);
